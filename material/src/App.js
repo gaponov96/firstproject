@@ -192,10 +192,10 @@ function App() {
                    <div className={classes.mainButtons}>
                        <Grid container spacing={5} justifyContent="center">
                            <Grid item>
-                               <Button variant="contained" color="primary"> Start now</Button>
+                               <Button variant="contained" color="primary"> Стартуем</Button>
                            </Grid>
                            <Grid item>
-                               <Button variant="outlined" color="primary"> Learn more</Button>
+                               <Button variant="outlined" color="primary"> Пиздуем</Button>
                            </Grid>
                        </Grid>
                    </div>
